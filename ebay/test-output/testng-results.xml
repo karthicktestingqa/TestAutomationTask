@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14506" started-at="2020-07-16T19:28:56 IST" finished-at="2020-07-16T19:29:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14506" started-at="2020-07-16T19:28:56 IST" finished-at="2020-07-16T19:29:10 IST">
+      <class name="testCases.TC_002_PBI02">
+        <test-method status="PASS" signature="runDrive()[pri:0, instance:testCases.TC_002_PBI02@1b92f0a]" name="runDrive" is-config="true" duration-ms="9032" started-at="2020-07-16T19:28:56 IST" finished-at="2020-07-16T19:29:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDrive -->
+        <test-method status="PASS" signature="FirstPriceResult()[pri:0, instance:testCases.TC_002_PBI02@1b92f0a]" name="FirstPriceResult" duration-ms="5415" started-at="2020-07-16T19:29:05 IST" finished-at="2020-07-16T19:29:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstPriceResult -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:testCases.TC_002_PBI02@1b92f0a]" name="closeDriver" is-config="true" duration-ms="1" started-at="2020-07-16T19:29:10 IST" finished-at="2020-07-16T19:29:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- testCases.TC_002_PBI02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
